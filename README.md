@@ -1,2 +1,2 @@
 # scanCodePlugin
-ionic2项目二维码扫描插件
+ionic2 二维码扫描插件,安卓及iOS平台皆可用.
