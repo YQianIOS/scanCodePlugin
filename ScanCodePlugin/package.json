@@ -1,0 +1,17 @@
+{
+  "name": "ScanCodePlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.plugin.ScanCodePlugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
