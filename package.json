@@ -1,6 +1,6 @@
 {
-  "name": "cordova.plugin.scancodeplugin",
-  "version": "0.0.2",
+  "name": "cordova-plugin-scancodeplugin",
+  "version": "0.0.3",
   "description": "qrscan plugin for ionic",
   "cordova": {
     "id": "com.plugin.ScanCodePlugin",
