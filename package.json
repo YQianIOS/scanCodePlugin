@@ -1,0 +1,21 @@
+{
+  "name": "cordova.plugin.scancodeplugin",
+  "version": "0.0.2",
+  "description": "qrscan plugin for ionic",
+  "cordova": {
+    "id": "com.plugin.ScanCodePlugin",
+    "platforms": [
+      "ios","android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1ziton/cordova.plugin.scancodeplugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": ["yilei","yangqian"],
+  "license": "ISC"
+}
