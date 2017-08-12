@@ -2,6 +2,11 @@
 
 ionic3 二维码扫描插件,安卓及iOS平台皆可用.
 
+
+## Usage
+
+ionic cordova plugin add cordova.plugin.scancodeplugin
+
 ```ts
 
      cordova.plugins.ScanCodePlugin.scan("扫描二维码", function (msg) {
